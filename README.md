@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Reza Lashkargahi I have Master's degree in computer science 
+- 👋 Hi, I’m Reza Lashkargahi. I have Master's degree in computer science 
 - 👀 I’m interested in AI and Data Science - Python programming 
-- 🌱 I’m currently learning Django - NoSQL
+- 🌱 I’m currently learning Django - NoSQL - German language
 - 💞️ I’m looking to collaborate on AI project
 - 📫 How to reach me : PLease reach me via email: rezasce.1375@gmail.com and Phone(whatsapp): (+98)9366604616
 
